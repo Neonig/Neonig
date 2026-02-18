@@ -6,7 +6,7 @@
 <h2 align="center">🚀 Sobre mí</h2>
 
 <p align="center">
-👋 Hola, soy <strong>Rize</strong> más conocida como <strong>Neon</strong>, <br>
+👋 Hola, soy <strong>Neon</strong> más conocida como <strong>Neon</strong>, <br>
 tengo <strong>18 años</strong> y soy de <strong> ?? </strong>
 </p>
 
