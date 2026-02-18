@@ -85,7 +85,7 @@ tengo <strong>18 años</strong> y soy de <strong> ?? </strong>
 <h2 align="center">📫 Conecta conmigo</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/@Neonig">
+  <a href="https://www.youtube.com/@Neonigs">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="http://discordapp.com/users/914332172054310994">
