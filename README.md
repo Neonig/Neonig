@@ -6,7 +6,7 @@
 <h2 align="center">🚀 Sobre mí</h2>
 
 <p align="center">
-👋 Hola, soy <strong>Rize</strong> más conocida como <strong>Rize</strong>, <br>
+👋 Hola, soy <strong>Rize</strong> más conocida como <strong>Neon</strong>, <br>
 tengo <strong>18 años</strong> y soy de <strong> ?? </strong>
 </p>
 
@@ -67,8 +67,8 @@ tengo <strong>18 años</strong> y soy de <strong> ?? </strong>
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-master-iRyze-projects.vercel.app/api?username=iRyze&show_icons=true&count_private=true&hide_border=true&title_color=4A4BF7&icon_color=4A4BF7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iRyze&hide_border=true&background=0d1117&stroke=4A4BF7&ring=4A4BF7&fire=4A4BF7&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-git-master-Neonig-projects.vercel.app/api?username=iRyze&show_icons=true&count_private=true&hide_border=true&title_color=4A4BF7&icon_color=4A4BF7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Neonig&hide_border=true&background=0d1117&stroke=4A4BF7&ring=4A4BF7&fire=4A4BF7&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ tengo <strong>18 años</strong> y soy de <strong> ?? </strong>
 <h2 align="center">📫 Conecta conmigo</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/@iRyze">
+  <a href="https://www.youtube.com/@Neonig">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="http://discordapp.com/users/914332172054310994">
@@ -97,7 +97,7 @@ tengo <strong>18 años</strong> y soy de <strong> ?? </strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iRyze&color=4A4BF7&style=for-the-badge&label=Visitas+al+perfil" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Neonig&color=4A4BF7&style=for-the-badge&label=Visitas+al+perfil" alt="Profile Views" />
 </p>
 
 <p align="center">
